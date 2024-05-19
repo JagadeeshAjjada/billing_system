@@ -21,4 +21,4 @@
 
 <h3>Screenshot/GIF of this project.</h3>
 
-![Bill]()
+![Bill](https://raw.githubusercontent.com/JagadeeshAjjada/billing_system/main/Billing_system2.png)
